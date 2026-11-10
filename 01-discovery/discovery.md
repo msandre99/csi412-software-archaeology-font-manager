@@ -4,7 +4,7 @@
 * **Nome do Software:** Font Manager (`FontManager/font-manager`)
 * **Versão/Release Analisada:** v0.8.8 
 * **Licença:** GNU General Public License v3.0 (GPLv3) 
-* **Tecnologias Utilizadas:** Linguagem C, toolkit gráfico GTK 3/4, ecossistema GNOME e sistema de build Meson/Ninja 
+* **Tecnologias Utilizadas:** Linguagem C, linguagem Vala, toolkit gráfico GTK 3/4, ecossistema GNOME e sistema de build Meson/Ninja 
 
 ## 2. Problema e Público-Alvo
 * **Problema que o software resolve:** Em sistemas operacionais Linux baseados em desktops modernos (como o ambiente GNOME), gerenciar fontes tipográficas de forma centralizada — instalar, visualizar previews, organizar em coleções e remover arquivos `.ttf` ou `.otf` — costuma exigir manipulação direta de diretórios ou carece de uma interface unificada para usuários comuns e profissionais.
